@@ -1,9 +1,9 @@
 1. **Data Preprocessing**:
    - Read the train and test data.
    - Concatenate train and test data for preprocessing.
-   - Handle missing values for 'Age', 'Embarked', and 'Fare'.
-   - Drop unnecessary columns like 'Age', 'Cabin', and 'Fare'.
-   - Encode categorical variables like 'Sex' and create new features like 'family_size', 'family_group', 'age_group', etc.
+   - Handle missing values.
+   - Drop unnecessary columns. 
+   - Encode categorical variables.
    - Drop unnecessary columns after feature engineering.
 
 2. **Model Selection and Training**:
